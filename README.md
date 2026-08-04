@@ -33,5 +33,3 @@ Por ser um dataset sintético, os valores não refletem benchmarks reais de
 mercado (ex: CTR de ~10%, bem acima da média real de 1-3%) e não apresentam 
 variação significativa entre canais/empresas nem sazonalidade. A metodologia 
 aplicada, no entanto, é a mesma usada em cenários de dados reais.
-
-## Screenshots
